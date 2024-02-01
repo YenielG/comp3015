@@ -1,2 +1,5 @@
 # comp3015
-Programación web con base de datos Yeniel
+__Programación Web con Base de Datos__
+
+_Autor:YenielG_
+
