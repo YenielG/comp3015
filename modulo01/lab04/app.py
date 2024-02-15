@@ -1,6 +1,6 @@
 print("for #1")
 for n in range(4):
-    print(n)
+ print(n)
 
 print("for #2")
 for n in range(1,4):
