@@ -1,5 +1,5 @@
 # comp3015
-__Programación Web con Base de Datos__
+__Programación Estructurada__
 
 Autor: _YenielG_ 
 
